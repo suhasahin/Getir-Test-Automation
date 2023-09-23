@@ -8,7 +8,8 @@ This test automation is coded for ordering food from start to payment section in
 
 - Test automation project for Android 11. You can run GetirAppTest.java file after adjusting settings for your enviroment.
 - You have to adjust your emulator desired capabilities such as emulator device name, android version etc.
-- coded for getir v. you can download getir application on your emulator from [Google Play](https://play.google.com/store/apps).
+- coded for getir v2.17.6
+- you can download getir application on your emulator from [Google Play](https://play.google.com/store/apps).
 - language used: Java
 - Dependencies : TestNG, Selenium, Appium, JUnit.
 
