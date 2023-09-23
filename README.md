@@ -13,3 +13,8 @@ This test automation is coded for ordering food from start to payment section in
 - language used: Java
 - Dependencies : TestNG, Selenium, Appium, JUnit.
 
+⬇️ **Click for the test run.** ⬇️
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=jxcdGZax84I" target="_blank">
+ <img src="http://img.youtube.com/vi/jxcdGZax84I/maxresdefault.jpg" alt="Watch the video" width="1200" height="900" border="10" />
+</a>
